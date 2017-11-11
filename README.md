@@ -4,7 +4,7 @@ This smart contract audit was prepared by [Quantstamp](https://www.quantstamp.co
 
 ## Specification
 
-Our understanding of the specification was based on the description of the white-paper dated February 26, 2017. The white-paper does not replace a proper specification, but the provided examples gave us an intuitive understanding of the protocol. We also reviewed the token sale provided in the [README.md](https://github.com/WeTrustPlatform/rosca-contracts/blob/develop/README.md) file in the github repository at the time of the audit. 
+Our understanding of the specification was based on the description of the white-paper dated February 26, 2017. The white-paper does not replace a proper specification, but the provided examples gave us an intuitive understanding of the protocol. We also reviewed the instructions provided in the [README.md](https://github.com/WeTrustPlatform/rosca-contracts/blob/develop/README.md) file in the github repository at the time of the audit. 
 
 ## Methodology
 
